@@ -32,8 +32,7 @@ Meu nome é Felipe, tenho 18 anos e moro em São Paulo.
 </div>
 <br/>  
 
-
-<h3 align="left">Linguagens e Ferramentas</h3>
+## Linguagens e Ferramentas
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
 ## Stats do Github
