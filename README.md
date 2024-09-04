@@ -2,7 +2,7 @@
 Meu nome é Felipe, tenho 18 anos e moro em São Paulo.  <br><br>🔭 Busca Contínua por Aprendizado.<br><br>❓ Formação(em andamento) em Engenharia de Software na FIAP.<br><br>⚡ Transformando Ideias em Realidade.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/felipe-catto-a07ab52ba) 
 
 # 💻 Tecnologias:
