@@ -33,7 +33,10 @@ Meu nome é Felipe, tenho 18 anos e moro em São Paulo.
 <br/>  
 
 ## Linguagens e Ferramentas
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<p align="center">
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
+</p>
 
 ## Stats do Github
 <a href="https://github.com/FelipeCattoSilva/github-readme-stats">
