@@ -43,9 +43,3 @@ Meu nome é Felipe, tenho 18 anos e moro em São Paulo.
   <img alt="Shows Felipe's GitHub Stats." src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeCattoSilva&theme=default">
 </picture>
 </a>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeCattoSilva&hide_border=true&layout=compact" align="left" />  
-
-<img src="https://github-readme-stats.vercel.app/api?username=FelipeCattoSilva&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
-<br/> 
