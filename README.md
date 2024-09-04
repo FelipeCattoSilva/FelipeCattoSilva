@@ -30,7 +30,7 @@ Meu nome é Felipe, tenho 18 anos e moro em São Paulo.
 
 
 ## Github Stats  
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/FelipeCattoSilva/github-readme-stats">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark">
   <img alt="Shows Felipe's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=FelipeCattoSilva&theme=default">
