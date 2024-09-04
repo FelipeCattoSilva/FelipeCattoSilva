@@ -23,17 +23,18 @@ Meu nome é Felipe, tenho 18 anos e moro em São Paulo.
 <a href="https://linkedin.com/in/felipe-catto-a07ab52ba" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-  <a href="https://linkedin.com/in/felipe-catto-a07ab52ba" target="_blank">
+<a href="https://linkedin.com/in/felipe-catto-a07ab52ba" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-  <a href="https://linkedin.com/in/felipe-catto-a07ab52ba" target="_blank">
+<a href="https://linkedin.com/in/felipe-catto-a07ab52ba" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-</div>  
-  
-
+</div>
 <br/>  
 
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
 ## Stats do Github
 <a href="https://github.com/FelipeCattoSilva/github-readme-stats">
