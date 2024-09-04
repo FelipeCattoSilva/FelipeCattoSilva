@@ -15,7 +15,7 @@ Meu nome é Felipe, tenho 18 anos e moro em São Paulo.
 
 <br/>  
 
-## Contato
+## Tools
 <div align="center">
 <a href="https://github.com/FelipeCattoSilva" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -29,7 +29,7 @@ Meu nome é Felipe, tenho 18 anos e moro em São Paulo.
 <br/>  
 
 
-## Github Stats  
+## Stats do Github
 <a href="https://github.com/FelipeCattoSilva/github-readme-stats">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=FelipeCattoSilva&theme=dark">
