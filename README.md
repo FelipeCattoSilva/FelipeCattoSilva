@@ -1,48 +1,17 @@
-# <ins><div align="center">Olá!</div></ins>  
-  
+# 💫 Sobre:
+Meu nome é Felipe, tenho 18 anos e moro em São Paulo.  <br><br>🔭 Busca Contínua por Aprendizado.<br><br>❓ Formação(em andamento) em Engenharia de Software na FIAP.<br><br>⚡ Transformando Ideias em Realidade.
 
-Meu nome é Felipe, tenho 18 anos e moro em São Paulo.  
-  
 
-- 🔭 Busca Contínua por Aprendizado.  
-  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/felipe-catto-a07ab52ba) 
 
-- ❓ Formação(em andamento) em Engenharia de Software na FIAP.  
-  
+# 💻 Tecnologias:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-- ⚡ Transformando Ideias em Realidade.  
-  
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=FelipeCattoSilva&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=FelipeCattoSilva&theme=github_dark_dimmed&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeCattoSilva&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<br/>  
-
-## Tools
-<div align="center">
-<a href="https://github.com/FelipeCattoSilva" target="_blank" rel="noreferrer">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/felipe-catto-a07ab52ba" target="_blank" rel="noreferrer">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</div>
-<br/>  
-
-## Linguagens e Ferramentas
-<p align="center">
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-</p>
-
-## Stats do Github
-<a href="https://github.com/FelipeCattoSilva/github-readme-stats">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=FelipeCattoSilva&theme=dark">
-  <img alt="Shows Felipe's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=FelipeCattoSilva&theme=default">
-</picture>
-</a>
-
-<a href="https://github.com/FelipeCattoSilva/github-readme-stats">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeCattoSilva&theme=dark">
-  <img alt="Shows Felipe's GitHub Stats." src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeCattoSilva&theme=default">
-</picture>
-</a>
+---
+[![](https://visitcount.itsvg.in/api?id=FelipeCattoSilva&icon=0&color=0)](https://visitcount.itsvg.in)
