@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤔 Exploring new technologies and developing software solutions.<br>🎓 Studying Software Engineering at Fiap.<br>🌱 Learning more about HTML, CSS & PYTHON.
+Hello! My name is Felipe, I'm from São Paulo, Brazil, and I'm studying Software Engineering at FIAP. I'm always looking for new learning opportunities and challenges to grow in the tech field. 🚀
 
 
 ## 🌐 Socials:
