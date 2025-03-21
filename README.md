@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤔 Exploring new technologies and developing software solutions.<br>🎓 Studying Software Engineering at Fiap.<br>🌱 Learning more about HTML & CSS.
+🤔 Exploring new technologies and developing software solutions.<br>🎓 Studying Software Engineering at Fiap.<br>🌱 Learning more about HTML, CSS & PYTHON.
 
 
 ## 🌐 Socials:
