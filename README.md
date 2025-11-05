@@ -24,6 +24,3 @@ Olá! Meu nome é Felipe, sou de São Paulo, Brasil, e estou estudando Engenhari
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeCattoSilva&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![Visualizações](https://visitcount.itsvg.in/api?id=FelipeCattoSilva&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Orgulhosamente criado com GPRM (https://gprm.itsvg.in) -->
